@@ -1,7 +1,7 @@
 
 # Fake News Detection
 
-In this repo we will classify news into fake or not fake
+In this repo. we will classify news into fake or not fake
 
 ## Documentation
 
